@@ -10,42 +10,28 @@ N/A
 
 ## Usage
 
-This webpage is intended for practicing our HTML organization and notation skills. You can explore the page in the inspect tab in a browser and see that there are no '<div>' elements present. 
+This webpage is intended for practicing our HTML organization and notation skills. You can explore the page in the inspect tab in a browser and see that there are no '<div>' elements present. Below is a screen shot from the class repository for the sake of comparison. This finished project should look similar to the linked screenshot.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Screenshot of finished webpage for comparison)](assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Collaborators
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+    Nicole Choiniere-Kroeker
 
-If you followed tutorials, include links to those here as well.
+Refernces
+
+    UCONN Virtual Full Stack Flex Program
+
+    W3 Schools (https://www.w3schools.com/)
+
+    MDN Web Docs (https://developer.mozilla.org/en-US/)
+
+    Stack Overflow (https://stackoverflow.com/)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License. See repository for more information.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
