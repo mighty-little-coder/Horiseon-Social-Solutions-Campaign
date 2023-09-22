@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This webpage is intended for practicing our HTML organization and notation skills. You can explore the page in the inspect tab in a browser and see that there are no '<div>' elements present. Below is a screen shot from the class repository for the sake of comparison. This finished project should look similar to the linked screenshot.
+This webpage is intended for practicing our HTML organization and notation skills. You can explore the page in the inspect tab in a browser and see that there are no "div" elements present. Below is a screen shot from the class repository for the sake of comparison. This finished project should look similar to the linked screenshot.
 
 ![Screenshot of finished webpage for comparison)](assets/images/01-html-css-git-homework-demo.png)
 
