@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to solidify the lessons learned in Module one of the Full Stack Coding Bootcamp. This project taught me to change non-descript elements of the HTML file into what are called 'semantic' elements. This give a better description to different parts of the webpage to improve both SEO (search engine optiomization) as well as accessabilty. I also learned setting up repositories from files in other repositories as well as improving my README file creation skills.
+This project was to solidify the lessons learned in Module one of the Full Stack Coding Bootcamp. This project taught me to change non-descript elements of the HTML file into what are called 'semantic' elements. This give a better description to different parts of the webpage to improve both SEO (search engine optimization) as well as accessability. I also learned setting up repositories from files in other repositories as well as improving my README file creation skills.
 
 ## Installation
 
