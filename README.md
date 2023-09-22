@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Horiseon Social Solutions Campaign
 
 ## Description
 
